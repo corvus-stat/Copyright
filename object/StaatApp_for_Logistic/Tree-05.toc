@@ -1,0 +1,7 @@
+('font',
+ 'font',
+ [],
+ 'DATA',
+ [('font\\SourceHanSansJP-Medium.ttf',
+   'font\\SourceHanSansJP-Medium.ttf',
+   'DATA')])
