@@ -1,0 +1,6 @@
+('ui_files',
+ 'ui_files',
+ [],
+ 'DATA',
+ [('ui_files\\layout.ui', 'ui_files\\layout.ui', 'DATA'),
+  ('ui_files\\style.qss', 'ui_files\\style.qss', 'DATA')])
