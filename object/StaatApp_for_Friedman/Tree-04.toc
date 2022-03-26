@@ -1,0 +1,5 @@
+('img',
+ 'img',
+ [],
+ 'DATA',
+ [('img\\right_arrow.png', 'img\\right_arrow.png', 'DATA')])
